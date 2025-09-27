@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "theme_info",
+        "theme_name": "UDO_THEME",
+        "theme_version": "1.0.0",
+        "theme_author": "Isaac Udofia",
+        "theme_documentation_url": "https://github.com/isaacudofia/UDO_THEME/blob/main/README.md",
+        "theme_support_email": "isaacudofia0@gmail.com"
+    }
+]
