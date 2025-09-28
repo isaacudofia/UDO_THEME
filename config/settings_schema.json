@@ -6,5 +6,15 @@
         "theme_author": "Isaac Udofia",
         "theme_documentation_url": "https://github.com/isaacudofia/UDO_THEME/blob/main/README.md",
         "theme_support_email": "isaacudofia0@gmail.com"
+    },{
+        "name": "Colors",
+        "settings": [
+            {
+                "type": "color",
+                "id": "color_background",
+                "label": "Page Background Color",
+                "default": "#f3f4f6",
+            }
+        ]
     }
 ]
